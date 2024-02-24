@@ -3,6 +3,9 @@ name = "smaz2"
 version = "0.1.1"
 authors = ["czyt"]
 edition = "2021"
+documentation = "https://docs.rs/smaz2"
+repository = "https://github.com/lib-x/smaz2_rs/"
+license-file = "LICENSE"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

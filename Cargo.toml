@@ -3,6 +3,7 @@ name = "smaz2"
 version = "0.1.1"
 authors = ["czyt"]
 edition = "2021"
+description = "SMAZ2 small messages compression algorithm in rust"
 documentation = "https://docs.rs/smaz2"
 repository = "https://github.com/lib-x/smaz2_rs/"
 license-file = "LICENSE"
